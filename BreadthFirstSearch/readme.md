@@ -24,3 +24,9 @@ The graph is represented using the NetworkX library. Examples of graph configura
 
 ## BFS Algorithm
 The BFS algorithm is implemented as a function bfsearch(graph, v, w) that takes a graph, start node (v), and end node (w) as parameters. The function returns whether a connection exists and the path if found.
+
+## Example Graph
+![Example Graph](graph.png "Example Graph")
+
+Input: (1 5)
+Output: Connection found. Path: [1, 2, 4, 5]
